@@ -16,14 +16,14 @@ minimal_mistakes_skin    : "aqua" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Meiotic "
+title                    : "Recombined"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "When meiosis goes wrong"
 name                     : "Chrstina N. Hodson"
-description              : "An amazing website."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+description              : "Blog for my occasinal thoughts that should see the light of the world."
+url                      : "https://chodsin.github.io"
+baseurl                  : "/blog"
+repository               : "chodson/chodson.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -105,29 +105,23 @@ analytics:
 # Site Author
 author:
   name             : "Christina N. Hodson"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-image.jpg"
+  avatar           : "/assets/images/bio-image.jpg"
   bio              : "I am an **amazing** person."
   location         : "UBC, Canada"
   email            : hodson.chrisina@gmail.com
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:hodson.christina@gmail.com"
-    - label: "Website"
+      url: "mailto:hodson.christina@gmail.com"
+    - label: "Google scholar"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      url: "https://scholar.google.com/citations?user=AmQ9_K8AAAAJ"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/chodson_evo"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/chodson"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
 
 # Site Footer
 footer:
